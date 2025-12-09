@@ -1,0 +1,39 @@
+{
+  "temas": {
+    "tecnologia": [
+      "O futuro é open source! 🚀 GitHub tá revolucionando como a gente programa #DevLife",
+      "Python continua dominando o mundo da programação! 🐍 Melhor linguagem pra começar? #Python",
+      "A IA tá ficando tão boa que até esse tweet poderia ser gerado por ela 🤖 #InteligenciaArtificial",
+      "Será que um dia a gente vai programar só falando com o computador? 🤔 #FuturoDaTecnologia",
+      "Celular com tela dobrável é modinha ou veio pra ficar? 📱 #Tecnologia"
+    ],
+    "games": [
+      "A nova geração de consoles tá custando um rim! 💸 Vale a pena o investimento? #Gaming",
+      "Jogo indie brasileiro merece mais atenção! 🇧🇷 Apoiem os devs locais #IndieGames",
+      "Você prefere single-player com história ou multiplayer competitivo? 🎮 #Games",
+      "Cloud gaming é o futuro ou só hype? ☁️ #GameStreaming",
+      "Modo história vs. Modo online: qual te prende mais horas? ⏰ #Gamer"
+    ],
+    "futebol": [
+      "O Brasileirão é o campeonato mais imprevisível do mundo! ⚽ Que jogo foi esse?? #Futebol",
+      "VAR: salvador ou vilão? 🤔 Às vezes acho que piorou a arbitragem #VAR",
+      "Time pequeno dando trabalho pros grandes é o que torna o futebol lindo! 👏 #Brasileirao",
+      "Contratação do ano? Esse jogador veio pra fazer história! ✍️ #MercadoDaBola",
+      "A torcida é o 12º jogador! Sem público, o futebol perde a alma 🙌 #Torcida"
+    ],
+    "cinema": [
+      "Filme de herói cansa ou você ainda ama a Marvel? 🦸‍♂️ #Cinema",
+      "Oscar 2024: qual filme merecia estar indicado e ficou de fora? 🏆 #Oscar",
+      "Streaming tá matando o cinema ou salvando a indústria? 🎬 #Netflix",
+      "Ator brasileiro que merecia mais reconhecimento internacional? 🇧🇷 #CinemaBrasileiro",
+      "Qual a franquia que precisa voltar? Precisamos de mais filmes disso! 🔄 #Filmes"
+    ],
+    "musica": [
+      "Funk, sertanejo ou pagode? Qual tá dominando seu Spotify? 🎵 #Musica",
+      "Show no Brasil é caro demais! 💰 Como justificar esses preços? #Shows",
+      "Artista novo que você descobriu e tá viciado? 🔊 #NewMusic",
+      "Playlist do verão já tem dono! Qual música não pode faltar? ☀️ #Verão",
+      "Música brasileira tá num momento bom? 🇧🇷 Quem tá mandando bem? #MPB"
+    ]
+  }
+}
